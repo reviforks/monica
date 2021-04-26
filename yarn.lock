@@ -3523,11 +3523,6 @@ detect-node@^2.0.4:
   resolved "https://registry.yarnpkg.com/detect-node/-/detect-node-2.0.4.tgz#014ee8f8f669c5c58023da64b8179c083a28c46c"
   integrity sha512-ZIzRpLJrOj7jjP2miAtgqIfmzbxa4ZOr5jJc601zklsfEx9oTzmmj2nVpIPRpNlRTIh8lc1kyViIY7BWSGNmKw==
 
-diacriticless@1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/diacriticless/-/diacriticless-1.0.1.tgz#e7dda978c2919609bb48aee1efc5de6a337bd4c3"
-  integrity sha1-592peMKRlgm7SK7h78XeajN71MM=
-
 diff@5.0.0:
   version "5.0.0"
   resolved "https://registry.yarnpkg.com/diff/-/diff-5.0.0.tgz#7ed6ad76d859d030787ec35855f5b1daf31d852b"
@@ -10728,12 +10723,11 @@ vue-eslint-parser@^7.6.0:
     lodash "^4.17.15"
 
 vue-good-table@^2.21.0:
-  version "2.21.8"
-  resolved "https://registry.yarnpkg.com/vue-good-table/-/vue-good-table-2.21.8.tgz#6f5991196f0ac4737d2156d483f1a63a98abb48f"
-  integrity sha512-zKjOBnASUvMwvqefd3dIUCHrd56keFHJjYBJo5AQsYHNq8gmoWKwmw1h74PT2FFH6Gm2BPuilTAqaLKufuIYdQ==
+  version "2.21.10"
+  resolved "https://registry.yarnpkg.com/vue-good-table/-/vue-good-table-2.21.10.tgz#a6efd27f345512b6ff3933dff8d2e9f1431ac590"
+  integrity sha512-K7yD8LwW5ouJmMTjNyjnXK1qwm6/FPt4jt+xk+dYAlVPTikW5QWnY8WZHgsiAWWWq58l5oOzRw9wS1tAAWaj6g==
   dependencies:
     date-fns "^2.17.0"
-    diacriticless "1.0.1"
     lodash.isequal "^4.5.0"
 
 vue-hot-reload-api@^2.3.0:
